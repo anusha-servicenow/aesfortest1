@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>tableautest</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_aes_test_1_tableautest</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>anusha.ghandamaneni@snc</sys_created_by>
+        <sys_created_on>2024-03-29 20:00:39</sys_created_on>
+        <sys_id>1a3b7cb0eb5dc210a025f262cad0cd91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tableautest</sys_name>
+        <sys_package display_value="AES test 1" source="x_snc_aes_test_1">0790a129eb454210d538ff81fcd0cdb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AES test 1">0790a129eb454210d538ff81fcd0cdb2</sys_scope>
+        <sys_update_name>sys_db_object_1a3b7cb0eb5dc210a025f262cad0cd91</sys_update_name>
+        <sys_updated_by>anusha.ghandamaneni@snc</sys_updated_by>
+        <sys_updated_on>2024-03-29 20:00:39</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_snc_aes_test_1.tableautest_user" name="x_snc_aes_test_1.tableautest_user">ee4bbcb0eb5dc210a025f262cad0cd50</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

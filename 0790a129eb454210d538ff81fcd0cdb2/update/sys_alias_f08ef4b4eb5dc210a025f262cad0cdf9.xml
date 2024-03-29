@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_aes_test_1.testforaes1</id>
+        <multiple_connections>false</multiple_connections>
+        <name>testforaes1</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>anusha.ghandamaneni@snc</sys_created_by>
+        <sys_created_on>2024-03-29 20:14:56</sys_created_on>
+        <sys_id>f08ef4b4eb5dc210a025f262cad0cdf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_aes_test_1.testforaes1</sys_name>
+        <sys_package display_value="AES test 1" source="x_snc_aes_test_1">0790a129eb454210d538ff81fcd0cdb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AES test 1">0790a129eb454210d538ff81fcd0cdb2</sys_scope>
+        <sys_update_name>sys_alias_f08ef4b4eb5dc210a025f262cad0cdf9</sys_update_name>
+        <sys_updated_by>anusha.ghandamaneni@snc</sys_updated_by>
+        <sys_updated_on>2024-03-29 20:14:56</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>
