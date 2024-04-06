@@ -23,7 +23,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>AES test 1</short_description>
         <source>x_snc_aes_test_1</source>
-        <store_correlation_id>REPOAPP0000004902</store_correlation_id>
+        <store_correlation_id>REPOAPP0000004909</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -31,16 +31,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-19 20:23:27</sys_created_on>
         <sys_id>0790a129eb454210d538ff81fcd0cdb2</sys_id>
-        <sys_mod_count>11</sys_mod_count>
-        <sys_updated_by>anusha.ghandamaneni@snc</sys_updated_by>
-        <sys_updated_on>2024-03-29 22:25:55</sys_updated_on>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_updated_by>priyanka.manwani@snc</sys_updated_by>
+        <sys_updated_on>2024-04-06 00:31:43</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor>ServiceNow</vendor>
         <vendor_prefix/>
-        <version>1.0.5</version>
+        <version>1.0.6</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=0790a129eb454210d538ff81fcd0cdb2"/>
 </record_update>
